@@ -1,0 +1,12 @@
+C:\Users\karel.pelcak\Desktop\MVC_Shop.Data\bin\Debug\net8.0\MVC_Shop.Data.deps.json
+C:\Users\karel.pelcak\Desktop\MVC_Shop.Data\bin\Debug\net8.0\MVC_Shop.Data.dll
+C:\Users\karel.pelcak\Desktop\MVC_Shop.Data\bin\Debug\net8.0\MVC_Shop.Data.pdb
+C:\Users\karel.pelcak\Desktop\MVC_Shop.Data\obj\Debug\net8.0\MVC_Shop.Data.csproj.AssemblyReference.cache
+C:\Users\karel.pelcak\Desktop\MVC_Shop.Data\obj\Debug\net8.0\MVC_Shop.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karel.pelcak\Desktop\MVC_Shop.Data\obj\Debug\net8.0\MVC_Shop.Data.AssemblyInfoInputs.cache
+C:\Users\karel.pelcak\Desktop\MVC_Shop.Data\obj\Debug\net8.0\MVC_Shop.Data.AssemblyInfo.cs
+C:\Users\karel.pelcak\Desktop\MVC_Shop.Data\obj\Debug\net8.0\MVC_Shop.Data.csproj.CoreCompileInputs.cache
+C:\Users\karel.pelcak\Desktop\MVC_Shop.Data\obj\Debug\net8.0\MVC_Shop.Data.dll
+C:\Users\karel.pelcak\Desktop\MVC_Shop.Data\obj\Debug\net8.0\refint\MVC_Shop.Data.dll
+C:\Users\karel.pelcak\Desktop\MVC_Shop.Data\obj\Debug\net8.0\MVC_Shop.Data.pdb
+C:\Users\karel.pelcak\Desktop\MVC_Shop.Data\obj\Debug\net8.0\ref\MVC_Shop.Data.dll

@@ -1,0 +1,15 @@
+C:\Users\karel.pelcak\Desktop\MVC_Shop.Bussines\bin\Debug\net8.0\MVC_Shop.Bussines.deps.json
+C:\Users\karel.pelcak\Desktop\MVC_Shop.Bussines\bin\Debug\net8.0\MVC_Shop.Bussines.dll
+C:\Users\karel.pelcak\Desktop\MVC_Shop.Bussines\bin\Debug\net8.0\MVC_Shop.Bussines.pdb
+C:\Users\karel.pelcak\Desktop\MVC_Shop.Bussines\bin\Debug\net8.0\MVC_Shop.Data.dll
+C:\Users\karel.pelcak\Desktop\MVC_Shop.Bussines\bin\Debug\net8.0\MVC_Shop.Data.pdb
+C:\Users\karel.pelcak\Desktop\MVC_Shop.Bussines\obj\Debug\net8.0\MVC_Shop.Bussines.csproj.AssemblyReference.cache
+C:\Users\karel.pelcak\Desktop\MVC_Shop.Bussines\obj\Debug\net8.0\MVC_Shop.Bussines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karel.pelcak\Desktop\MVC_Shop.Bussines\obj\Debug\net8.0\MVC_Shop.Bussines.AssemblyInfoInputs.cache
+C:\Users\karel.pelcak\Desktop\MVC_Shop.Bussines\obj\Debug\net8.0\MVC_Shop.Bussines.AssemblyInfo.cs
+C:\Users\karel.pelcak\Desktop\MVC_Shop.Bussines\obj\Debug\net8.0\MVC_Shop.Bussines.csproj.CoreCompileInputs.cache
+C:\Users\karel.pelcak\Desktop\MVC_Shop.Bussines\obj\Debug\net8.0\MVC_Shop.DE6C0B53.Up2Date
+C:\Users\karel.pelcak\Desktop\MVC_Shop.Bussines\obj\Debug\net8.0\MVC_Shop.Bussines.dll
+C:\Users\karel.pelcak\Desktop\MVC_Shop.Bussines\obj\Debug\net8.0\refint\MVC_Shop.Bussines.dll
+C:\Users\karel.pelcak\Desktop\MVC_Shop.Bussines\obj\Debug\net8.0\MVC_Shop.Bussines.pdb
+C:\Users\karel.pelcak\Desktop\MVC_Shop.Bussines\obj\Debug\net8.0\ref\MVC_Shop.Bussines.dll

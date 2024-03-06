@@ -1,0 +1,83 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/MVC_Shop.styles.css" asp-append-version="true" />
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+    <header class="bg-gray-100">
+        <nav class="flex flex-wrap items-center justify-between p-4 bg-white shadow-lg">
+            <div class="flex items-center flex-shrink-0 mr-6">
+                <a href="#" class="font-semibold text-xl tracking-tight"><img class="object-contain h-[40px]" src="~/images/Logo.jfif" /></a>
+            </div>
+            <div class="block lg:hidden">
+                <button id="nav-toggle" class="flex items-center px-3 py-2 border rounded text-gray-600 border-gray-600 hover:text-gray-800 hover:border-gray-800">
+                    <svg class="fill-current h-3 w-3" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                        <title>Menu</title>
+                        <path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z" />
+                    </svg>
+                </button>
+            </div>
+            <div class="w-full flex-grow lg:flex lg:items-center lg:w-auto hidden" id="nav-content">
+                <ul class="list-reset lg:flex justify-end items-center">
+                    <li class="mr-3">
+                        <a href="#" class="block py-1 md:py-3 pl-1 align-middle text-gray-600 no-underline hover:text-gray-800 border-b-2 border-transparent hover:border-indigo-500">Kontakt</a>
+                    </li>
+                    <li class="mr-3">
+                        <a href="#" class="block py-1 md:py-3 pl-1 align-middle text-gray-600 no-underline hover:text-gray-800 border-b-2 border-transparent hover:border-indigo-500">Články</a>
+                    </li>
+                    <li class="mr-3">
+                        <a href="#" class="block py-1 md:py-3 pl-1 align-middle text-gray-600 no-underline hover:text-gray-800 border-b-2 border-transparent hover:border-indigo-500">
+                            @if (User.Identity.IsAuthenticated)
+                            {
+                                <span class="">{{ User.Identity.Name }}</span>
+                            }
+                            else
+                            {
+                                <span class="">Účet</span>
+                            }
+                        </a>
+                    </li>
+                </ul>
+                <div class="relative mx-auto text-gray-600 lg:block hidden">
+                    <input class="border-2 border-gray-300 bg-white h-10 px-5 pr-16 rounded-lg text-sm focus:outline-none"
+                           type="search" name="searchPhrase" id="header-search" placeholder="Název zboží...">
+                    <button type="submit" class="absolute right-0 top-0 mt-3 mr-4">
+                        <i class="bi bi-search"></i>
+                    </button>
+                </div>
+                <div class="flex items-center justify-end">
+                    <form action="#" method="post" class="inline-block">
+                        <button class="bg-transparent hover:bg-gray-300 text-gray-600 font-semibold hover:text-gray-800 py-2 px-4 border border-gray-600 rounded">
+                            <i class="bi bi-cart me-1"></i>
+                            Košík
+                            <span class="bg-gray-800 text-white rounded-full px-2 py-1">0 Kč</span>
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2024 - MVC_Shop - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
