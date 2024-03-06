@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GwMRFmSRDGPN0I2F9LvWiAOOW0oWkHqr1+mCSxSV0unLpFLQSwa4lkpT4TDg99hD32aX3xPyxsw186sKgqeOlw==",
+  "dgSpecHash": "m2pIILZsOjFt+fPv18MCnVFIvlPcvMrP8gPcxecbYFLCUxKNtepTzU8nA7ev9eFsmszGm1HOi/i+2edcOzTZ1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\karel.pelcak\\Desktop\\MVC_Shop.Data\\MVC_Shop.Data.csproj",
+  "projectFilePath": "C:\\Users\\karel.pelcak\\Desktop\\shop\\MVC_Shop\\MVC_Shop.Data\\MVC_Shop.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\karel.pelcak\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\karel.pelcak\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

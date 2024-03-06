@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\karel.pelcak\\Desktop\\MVC_Shop\\MVC_Shop.csproj": {}
+    "C:\\Users\\karel.pelcak\\Desktop\\shop\\MVC_Shop\\MVC_Shop\\MVC_Shop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\karel.pelcak\\Desktop\\MVC_Shop.Bussines\\MVC_Shop.Bussines.csproj": {
+    "C:\\Users\\karel.pelcak\\Desktop\\shop\\MVC_Shop\\MVC_Shop.Bussines\\MVC_Shop.Bussines.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karel.pelcak\\Desktop\\MVC_Shop.Bussines\\MVC_Shop.Bussines.csproj",
+        "projectUniqueName": "C:\\Users\\karel.pelcak\\Desktop\\shop\\MVC_Shop\\MVC_Shop.Bussines\\MVC_Shop.Bussines.csproj",
         "projectName": "MVC_Shop.Bussines",
-        "projectPath": "C:\\Users\\karel.pelcak\\Desktop\\MVC_Shop.Bussines\\MVC_Shop.Bussines.csproj",
+        "projectPath": "C:\\Users\\karel.pelcak\\Desktop\\shop\\MVC_Shop\\MVC_Shop.Bussines\\MVC_Shop.Bussines.csproj",
         "packagesPath": "C:\\Users\\karel.pelcak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\karel.pelcak\\Desktop\\MVC_Shop.Bussines\\obj\\",
+        "outputPath": "C:\\Users\\karel.pelcak\\Desktop\\shop\\MVC_Shop\\MVC_Shop.Bussines\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\karel.pelcak\\Desktop\\MVC_Shop.Data\\MVC_Shop.Data.csproj": {
-                "projectPath": "C:\\Users\\karel.pelcak\\Desktop\\MVC_Shop.Data\\MVC_Shop.Data.csproj"
+              "C:\\Users\\karel.pelcak\\Desktop\\shop\\MVC_Shop\\MVC_Shop.Data\\MVC_Shop.Data.csproj": {
+                "projectPath": "C:\\Users\\karel.pelcak\\Desktop\\shop\\MVC_Shop\\MVC_Shop.Data\\MVC_Shop.Data.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\Users\\karel.pelcak\\Desktop\\MVC_Shop.Data\\MVC_Shop.Data.csproj": {
+    "C:\\Users\\karel.pelcak\\Desktop\\shop\\MVC_Shop\\MVC_Shop.Data\\MVC_Shop.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karel.pelcak\\Desktop\\MVC_Shop.Data\\MVC_Shop.Data.csproj",
+        "projectUniqueName": "C:\\Users\\karel.pelcak\\Desktop\\shop\\MVC_Shop\\MVC_Shop.Data\\MVC_Shop.Data.csproj",
         "projectName": "MVC_Shop.Data",
-        "projectPath": "C:\\Users\\karel.pelcak\\Desktop\\MVC_Shop.Data\\MVC_Shop.Data.csproj",
+        "projectPath": "C:\\Users\\karel.pelcak\\Desktop\\shop\\MVC_Shop\\MVC_Shop.Data\\MVC_Shop.Data.csproj",
         "packagesPath": "C:\\Users\\karel.pelcak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\karel.pelcak\\Desktop\\MVC_Shop.Data\\obj\\",
+        "outputPath": "C:\\Users\\karel.pelcak\\Desktop\\shop\\MVC_Shop\\MVC_Shop.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -166,14 +166,14 @@
         }
       }
     },
-    "C:\\Users\\karel.pelcak\\Desktop\\MVC_Shop\\MVC_Shop.csproj": {
+    "C:\\Users\\karel.pelcak\\Desktop\\shop\\MVC_Shop\\MVC_Shop\\MVC_Shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\karel.pelcak\\Desktop\\MVC_Shop\\MVC_Shop.csproj",
+        "projectUniqueName": "C:\\Users\\karel.pelcak\\Desktop\\shop\\MVC_Shop\\MVC_Shop\\MVC_Shop.csproj",
         "projectName": "MVC_Shop",
-        "projectPath": "C:\\Users\\karel.pelcak\\Desktop\\MVC_Shop\\MVC_Shop.csproj",
+        "projectPath": "C:\\Users\\karel.pelcak\\Desktop\\shop\\MVC_Shop\\MVC_Shop\\MVC_Shop.csproj",
         "packagesPath": "C:\\Users\\karel.pelcak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\karel.pelcak\\Desktop\\MVC_Shop\\obj\\",
+        "outputPath": "C:\\Users\\karel.pelcak\\Desktop\\shop\\MVC_Shop\\MVC_Shop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -194,11 +194,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\karel.pelcak\\Desktop\\MVC_Shop.Bussines\\MVC_Shop.Bussines.csproj": {
-                "projectPath": "C:\\Users\\karel.pelcak\\Desktop\\MVC_Shop.Bussines\\MVC_Shop.Bussines.csproj"
+              "C:\\Users\\karel.pelcak\\Desktop\\shop\\MVC_Shop\\MVC_Shop.Bussines\\MVC_Shop.Bussines.csproj": {
+                "projectPath": "C:\\Users\\karel.pelcak\\Desktop\\shop\\MVC_Shop\\MVC_Shop.Bussines\\MVC_Shop.Bussines.csproj"
               },
-              "C:\\Users\\karel.pelcak\\Desktop\\MVC_Shop.Data\\MVC_Shop.Data.csproj": {
-                "projectPath": "C:\\Users\\karel.pelcak\\Desktop\\MVC_Shop.Data\\MVC_Shop.Data.csproj"
+              "C:\\Users\\karel.pelcak\\Desktop\\shop\\MVC_Shop\\MVC_Shop.Data\\MVC_Shop.Data.csproj": {
+                "projectPath": "C:\\Users\\karel.pelcak\\Desktop\\shop\\MVC_Shop\\MVC_Shop.Data\\MVC_Shop.Data.csproj"
               }
             }
           }

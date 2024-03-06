@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TNllMLymvV7XgWa1/wix9wejP5j1sVbberTxeswvMOfCWINjRTNRfUzIpdVJhW8V3Emz9hSlmr20E/GUN3E1mQ==",
+  "dgSpecHash": "R8StEV/Ut1yoCMcPESKuvrc7f+BG+XBagZ6c4vpgX/+hm8OEhM/dhH26SkBorgmGsQ+l5qN7poXlcQGBYgOyfQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\karel.pelcak\\Desktop\\MVC_Shop.Bussines\\MVC_Shop.Bussines.csproj",
+  "projectFilePath": "C:\\Users\\karel.pelcak\\Desktop\\shop\\MVC_Shop\\MVC_Shop.Bussines\\MVC_Shop.Bussines.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\karel.pelcak\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\karel.pelcak\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

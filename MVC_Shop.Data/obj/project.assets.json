@@ -6823,11 +6823,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\karel.pelcak\\Desktop\\MVC_Shop.Data\\MVC_Shop.Data.csproj",
+      "projectUniqueName": "C:\\Users\\karel.pelcak\\Desktop\\shop\\MVC_Shop\\MVC_Shop.Data\\MVC_Shop.Data.csproj",
       "projectName": "MVC_Shop.Data",
-      "projectPath": "C:\\Users\\karel.pelcak\\Desktop\\MVC_Shop.Data\\MVC_Shop.Data.csproj",
+      "projectPath": "C:\\Users\\karel.pelcak\\Desktop\\shop\\MVC_Shop\\MVC_Shop.Data\\MVC_Shop.Data.csproj",
       "packagesPath": "C:\\Users\\karel.pelcak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\karel.pelcak\\Desktop\\MVC_Shop.Data\\obj\\",
+      "outputPath": "C:\\Users\\karel.pelcak\\Desktop\\shop\\MVC_Shop\\MVC_Shop.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

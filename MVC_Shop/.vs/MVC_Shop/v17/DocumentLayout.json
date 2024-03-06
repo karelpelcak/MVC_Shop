@@ -1,21 +1,27 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\karel.pelcak\\Desktop\\MVC_Shop\\",
+  "WorkspaceRootPath": "C:\\Users\\karel.pelcak\\Desktop\\shop\\MVC_Shop\\MVC_Shop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{931483B5-E1F9-4E28-89F5-E457C0480408}|MVC_Shop.csproj|c:\\users\\karel.pelcak\\desktop\\mvc_shop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4B8B3BBE-C1CD-4D2F-B9A8-0F6F8D40B927}|..\\MVC_Shop.Data\\MVC_Shop.Data.csproj|c:\\users\\karel.pelcak\\desktop\\shop\\mvc_shop\\mvc_shop.data\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B8B3BBE-C1CD-4D2F-B9A8-0F6F8D40B927}|..\\MVC_Shop.Data\\MVC_Shop.Data.csproj|c:\\users\\karel.pelcak\\desktop\\shop\\mvc_shop\\mvc_shop.data\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{931483B5-E1F9-4E28-89F5-E457C0480408}|MVC_Shop.csproj|c:\\users\\karel.pelcak\\desktop\\shop\\mvc_shop\\mvc_shop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{931483B5-E1F9-4E28-89F5-E457C0480408}|MVC_Shop.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{931483B5-E1F9-4E28-89F5-E457C0480408}|MVC_Shop.csproj|c:\\users\\karel.pelcak\\desktop\\mvc_shop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{931483B5-E1F9-4E28-89F5-E457C0480408}|MVC_Shop.csproj|c:\\users\\karel.pelcak\\desktop\\shop\\mvc_shop\\mvc_shop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{931483B5-E1F9-4E28-89F5-E457C0480408}|MVC_Shop.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{931483B5-E1F9-4E28-89F5-E457C0480408}|MVC_Shop.csproj|c:\\users\\karel.pelcak\\desktop\\mvc_shop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{931483B5-E1F9-4E28-89F5-E457C0480408}|MVC_Shop.csproj|c:\\users\\karel.pelcak\\desktop\\shop\\mvc_shop\\mvc_shop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{931483B5-E1F9-4E28-89F5-E457C0480408}|MVC_Shop.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{931483B5-E1F9-4E28-89F5-E457C0480408}|MVC_Shop.csproj|c:\\users\\karel.pelcak\\desktop\\mvc_shop\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{931483B5-E1F9-4E28-89F5-E457C0480408}|MVC_Shop.csproj|c:\\users\\karel.pelcak\\desktop\\shop\\mvc_shop\\mvc_shop\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{931483B5-E1F9-4E28-89F5-E457C0480408}|MVC_Shop.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -31,54 +37,77 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\karel.pelcak\\Desktop\\shop\\MVC_Shop\\MVC_Shop.Data\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\MVC_Shop.Data\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\karel.pelcak\\Desktop\\shop\\MVC_Shop\\MVC_Shop.Data\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\MVC_Shop.Data\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T10:13:44.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\karel.pelcak\\Desktop\\shop\\MVC_Shop\\MVC_Shop.Data\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "..\\MVC_Shop.Data\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\karel.pelcak\\Desktop\\shop\\MVC_Shop\\MVC_Shop.Data\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "..\\MVC_Shop.Data\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T10:12:35.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\karel.pelcak\\Desktop\\MVC_Shop\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\karel.pelcak\\Desktop\\shop\\MVC_Shop\\MVC_Shop\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\karel.pelcak\\Desktop\\MVC_Shop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\karel.pelcak\\Desktop\\shop\\MVC_Shop\\MVC_Shop\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABpAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-06T09:50:14.929Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\karel.pelcak\\Desktop\\MVC_Shop\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\karel.pelcak\\Desktop\\shop\\MVC_Shop\\MVC_Shop\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\karel.pelcak\\Desktop\\MVC_Shop\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\karel.pelcak\\Desktop\\shop\\MVC_Shop\\MVC_Shop\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-06T09:44:12.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T09:44:12.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\karel.pelcak\\Desktop\\shop\\MVC_Shop\\MVC_Shop\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\karel.pelcak\\Desktop\\shop\\MVC_Shop\\MVC_Shop\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T09:41:56.446Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\karel.pelcak\\Desktop\\MVC_Shop\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\karel.pelcak\\Desktop\\MVC_Shop\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-06T09:41:56.446Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\karel.pelcak\\Desktop\\MVC_Shop\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\karel.pelcak\\Desktop\\shop\\MVC_Shop\\MVC_Shop\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\karel.pelcak\\Desktop\\MVC_Shop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\karel.pelcak\\Desktop\\shop\\MVC_Shop\\MVC_Shop\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-06T09:41:04.387Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-06T09:41:04.387Z"
             }
           ]
         }
